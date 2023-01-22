@@ -31,7 +31,7 @@ You are provided with around 90K records containing the attributes of the user a
 |			`income`		        |	Income earned in a year (in rupees)                   |
 |			`marital_status`    |	Marital Status of the customer {0:Single, 1: Married} |
 | 		`vintage`			      | No. of years since the first policy date              |
-|			`claim_amount 	    |	Total Amount Claimed by the customer (in rupees)      |
+|			`claim_amount` 	    |	Total Amount Claimed by the customer (in rupees)      |
 |			`num_policies`      |	Total no. of policies issued by the customer          |
 | 		`policy`			      | Active policy of the customer                         |
 |			`type_of_policy`    |	Type of active policy                                 |
@@ -50,7 +50,7 @@ You are provided with around 60K records containing only the attributes of the u
 |			`income`		        |	Income earned in a year (in rupees)                   |
 |			`marital_status`    |	Marital Status of the customer {0:Single, 1: Married} |
 | 		`vintage`			      | No. of years since the first policy date              |
-|			`claim_amount 	    |	Total Amount Claimed by the customer (in rupees)      |
+|			`claim_amount`	    |	Total Amount Claimed by the customer (in rupees)      |
 |			`num_policies`      |	Total no. of policies issued by the customer          |
 | 		`policy`			      | Active policy of the customer                         |
 |			`type_of_policy`    |	Type of active policy                                 |
